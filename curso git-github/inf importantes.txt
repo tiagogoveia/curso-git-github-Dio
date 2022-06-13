@@ -1,0 +1,5 @@
+comondos para commit e push para github:
+
+git add .
+git commit -m "comentario do commit"
+git push origin main

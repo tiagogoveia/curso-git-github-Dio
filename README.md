@@ -1,2 +1,2 @@
-# curso-git-github-Dio
+# curso git/github Dio
 santander Bootcamp 2022
